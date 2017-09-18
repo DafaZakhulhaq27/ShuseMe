@@ -26,7 +26,7 @@ import android.database.sqlite.SQLiteDatabase;
 import android.net.Uri;
 import android.support.annotation.NonNull;
 
-import static com.example.android.shushme.provider.PlaceContract.PlaceEntry;
+import static com.semangat.shuseme.provider.PlaceContract.PlaceEntry;
 
 
 public class PlaceContentProvider extends ContentProvider {
